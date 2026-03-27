@@ -1,0 +1,4 @@
+A very simple number guessing game using the built-in random package. Enter in a number 1-10, guess correctly in 3 tries and get a really
+cool prize!
+
+Remember to point out errors and such!
