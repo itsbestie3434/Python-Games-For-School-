@@ -1,0 +1,6 @@
+An IP checker for your device's public IP seen by websites and other services that request public IP's. You need the python package
+requests for it to work.
+
+Any Issues? Point it out!
+link to requests python package:
+https://pypi.org/project/requests/
